@@ -22,6 +22,10 @@ article{
     font-size: 50px;
 }
 
+.blog__subscribe{
+    color: rgb(129, 129, 129);
+    font-size: 18px;
+}
 .searchIcon{
     width: 30px;
     
@@ -40,6 +44,7 @@ article{
     font-size: 35px;
     font-family: "Cardo", serif;
     margin-bottom: 0;
+    text-transform: capitalize;
 }
 .posts__topic{
     font-size: 18px;
@@ -64,10 +69,6 @@ article{
     padding: 2rem 22rem;
 }
 
-.blog__subscribe{
-    color: rgb(129, 129, 129);
-    font-size: 18px;
-}
 
 a{
     color: rgb(31, 142, 245);
